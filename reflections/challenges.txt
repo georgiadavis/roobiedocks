@@ -1,0 +1,3 @@
+My anticipated challenges are that I will start mixing up Ruby and Python syntax. I’ve already dived pretty deep into Python so I’m wondering if I will be able to retain both. 
+
+Also I am concerned I will not prioritize time for my own learning and focus only on my day job (a Course Developer at Udacity) 
